@@ -1,2 +1,1 @@
-# DevOps_trial
-this is a DevOps trial
+this is a speech to text converter DL based algorithm
